@@ -1,3 +1,10 @@
+# [Submit List](https://submitlist.net/)
+> A curated list for submitting your startup or side project
+
+This lists the top 100 items of all lists. If you're interested, you can visit [submitlist](https://submitlist.net/) to view the complete list and filter based on your requirements.
+**If you find any omissions here, feel free to submit a PR**
+
+## Top 100
 | NO. | Name | Price Model | Type |
 | --- | --- | --- | --- |
 | 1 | [Toolify](https://www.toolify.ai/) | Paid | Website |
@@ -100,3 +107,8 @@
 | 98 | [saasworthy](https://www.saasworthy.com/) |  | Website |
 | 99 | [softwareworld](https://www.softwareworld.co/) |  | Website |
 | 100 | [startupbase](https://startupbase.io/) |  | Website |
+
+## Add new
+| NO. | Name | Price Model | Type |
+| --- | --- | --- | --- |
+| 1 | [Toolify](https://www.toolify.ai/) | Paid | Website |
