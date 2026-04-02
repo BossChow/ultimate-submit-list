@@ -1,4 +1,5 @@
 # [Submit List](https://submitlist.net/)
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 > A curated list for submitting your startup or side project
 
